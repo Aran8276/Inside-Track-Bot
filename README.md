@@ -36,7 +36,7 @@ DS4 Emulator Config: https://drive.google.com/file/d/1jet4G0rHFP6nH2pbxn_lRiLC9-
 
 That's it! the Inside-Track-Bot is now set up and will automatically place bets with the highest winning odds for you in the Inside Track horse racing game. Please note that while the bot is designed to optimize your chances of winning, it may not always succeed due to limitations such as OCR accuracy and PS Remote Play internet speed affecting streaming quality. 
 
-Additionally, please use the bot wisely, as earning a certain amount of chips (usually around 5-10 million) or playing for too long will ban you from using horse track races as well as other gambling minigames in the casino
+Additionally, please use the bot wisely, as earning a certain amount of chips (usually around 5-10 million) or playing for too long will ban you from using horse track races as well as other gambling minigames in the casino.
 
 ![Capture](https://user-images.githubusercontent.com/20200187/227710698-395ee9c2-01a3-4089-8c57-4c28e1633fe7.PNG)
 
