@@ -1,6 +1,6 @@
 # Inside-Track-Bot
 
-Inside-Track-Bot is a macro that automates the betting process in the Inside Track horse racing game in Grand Theft Auto Online. This readme provides instructions on how to set up the DS4Emulator, which is required to run the macro.
+Inside-Track-Bot is a macro that automates the betting process using OCR (Optical Character Recognition) in the Inside Track horse racing game in Grand Theft Auto Online. This readme provides instructions on how to set up the DS4Emulator, which is required to run the macro.
 
 # Prerequisites
 
