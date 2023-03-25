@@ -40,7 +40,7 @@ Additionally, please use the bot wisely, as earning a certain amount of chips (u
 
 ![Capture](https://user-images.githubusercontent.com/20200187/227710698-395ee9c2-01a3-4089-8c57-4c28e1633fe7.PNG)
 
-(for around 7-14 days but don't worry your account is safe).
+(for around 7 days but don't worry your account is safe).
 
 https://www.reddit.com/r/gtaonline/comments/ckttbz/this_feature_is_not_available_now_please_come/
 
